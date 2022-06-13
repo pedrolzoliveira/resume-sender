@@ -1,8 +1,8 @@
 # resume-sender
 
-Olá, este bot vou criado com o intuito de enviar meu currículo de forma automatizada para as vagas de NodeJS publicadas no repositório de vagas do "backend-br"
+Olá, este bot foi criado com o intuito de enviar meu currículo de forma automatizada para as vagas de NodeJS publicadas no repositório de vagas do "backend-br"
 
-Este programa irá fazer as seguintes coisas:
+Este programa faz as seguintes coisas:
 
 1. Buscar os issues com a label de NodeJS
 1. Verificar quais vagas podem ser enviadas por email

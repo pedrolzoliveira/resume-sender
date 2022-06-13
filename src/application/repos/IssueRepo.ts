@@ -3,6 +3,8 @@ import { Octokit } from "octokit";
 export interface Issue {
     number: number;
     body?: string;
+    url: string;
+    html_url: string;
 }
 
 export interface IssueRepo {
